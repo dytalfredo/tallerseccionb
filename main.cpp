@@ -68,7 +68,7 @@ cantidadcompras=cantidadcompras+1;
     std::cout<<"Porcentaje compras al Mayor: "<< comprasmayor*100/cantidadcompras <<"%"<<std::endl;
 	std::cout<<"Porcentaje compras al Menor: "<< comprasdetal*100/cantidadcompras <<"%"<<std::endl;
 	std::cout<<"Total en $ de Ventas con" <<cantidadclientes <<"clientes es: "<< totalcompra<<"$"<<std::endl;
-	
+	std::cout<<"Los integrantes son Darío Montero, Melary Morales y Alfredo Mendoza" <<std::endl;
 	
 	return 0;
 }
